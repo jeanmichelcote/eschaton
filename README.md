@@ -4,7 +4,7 @@ This slightly desaturated, non-candy looking scheme is based on the Material-The
 
 ## Presentation
 
-![Eschaton](https://drive.google.com/file/d/0B06-oBqLR4NIcGJQLTdVRDRLcEk/view?usp=sharing)
+![Eschaton](https://www.dropbox.com/s/b9focu1jhmd4jg1/eschaton_screenGrab.jpeg?dl=1)
 
 ## Installation
 
