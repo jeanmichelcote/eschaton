@@ -27,12 +27,12 @@ While inside the `Packages` directory, clone the color scheme repository using t
 ## Activating the color scheme
 
 * Open your User Settings Preferences file `Sublime Text -> Preferences -> Settings - User`
-* Add (or update) your color scheme entry to be `"color_scheme": "Packages/Eschaton Color Scheme/Eschaton-Theme.tmTheme"` 
+* Add (or update) your color scheme entry to be `"color_scheme": "Packages/Eschaton Color Scheme/Eschaton.tmTheme"` 
 
 **Example Sublime Text 3 User Settings**
 
     {
-        "color_scheme": "Packages/Eschaton Color Scheme/Eschaton-Theme.tmTheme"
+        "color_scheme": "Packages/Eschaton Color Scheme/Eschaton.tmTheme"
     }
 
 ## License
