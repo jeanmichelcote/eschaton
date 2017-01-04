@@ -1,6 +1,6 @@
 # Eschaton Color Scheme
 
-This is slightly desaturated, non-candy looking scheme based on the Material-Theme dark scheme so it naturally blends in with the Material Theme. ES6 adapted, JSON 5 levels coloring, JSX and CSS enhancement.
+This color scheme is slightly desaturated, non-candy looking scheme based on the Material-Theme dark scheme so it naturally blends in with the Material Theme. ES6 adapted, JSON 5 levels coloring, JSX and CSS enhancement.
 
 ## Presentation
 
